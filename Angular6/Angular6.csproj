@@ -71,6 +71,7 @@
   <ItemGroup>
     <Content Include="Home.html" />
     <Content Include="main.js" />
+    <Content Include="TestFile.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
